@@ -1,0 +1,11 @@
+.App {
+  min-height: 100vh;
+  background-color: #f94d1f;
+  color: white;
+  padding-top: 130px;
+  padding-bottom: 70px;
+}
+
+.pageTitle {
+  font-size: 6vh;
+}
